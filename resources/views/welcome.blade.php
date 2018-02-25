@@ -95,10 +95,10 @@
 
                 <div class="links">
                     <a href="#">About</a>
-                    <a href="#">Projects</a>
-                    <a href="#">Blog</a>
-                    <a href="#">Twitter</a>
-                    <a href="#">GitHub</a>
+                    <a href="https://askubuntu.com/users/252956/4m01">Ask Ubuntu</a>
+                    <a href="/blog/public">Blog</a>
+                    <a href="https://twitter.com/amolmtangade">Twitter</a>
+                    <a href="https://github.com/amolmt">GitHub</a>
                 </div>
             </div>
         </div>

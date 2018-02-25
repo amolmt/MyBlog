@@ -34,7 +34,7 @@ $url = URL::to('/').'/uploads/'. $file->getClientOriginalName();
         }
         $profiles->profile_pic = $url;
         $profiles->save();
-        return redirect('/profile')->with('response','Profile Added Successfully!');
+        return redirect('/home')->with('response','Profile Added Successfully!');
         //return Auth::user()->id;
         //exit();
     }
